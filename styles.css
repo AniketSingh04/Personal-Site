@@ -1,0 +1,146 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1{
+  margin-top: 50px;
+  margin-bottom: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 562.5%;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2{
+  font-family: 'Signika Negative', sans-serif;
+  padding-bottom: 10px;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3{
+  font-family: 'Signika Negative', sans-serif;
+  color: #11999E;
+}
+
+p{
+  line-height: 1.5;
+  font-size: 120%;
+  font-weight: bold;
+  color: #40514E;
+  font-family: 'PT Sans', sans-serif;
+  margin: 0 auto 0 auto;
+}
+
+hr{
+  height: 0;
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+
+}
+
+.footer-link{
+      color: #11999E;
+      font-family: 'Montserrat', sans-serif;
+      margin: 10px 20px;
+      text-decoration: none;
+}
+
+
+.cloud2{
+  position: absolute;
+
+}
+
+.cloud1{
+  position: absolute;
+  right: 400px;
+  top: 100px;
+}
+
+.profile{
+  margin: 100px 0 0 0;
+}
+.profilepic{
+  margin: 100 0 0 0;
+  height: 300px;
+  width: 300px;
+  border-radius: 100%;
+}
+
+.tools-img{
+  width: 20%;
+  border-radius: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.is-img{
+  width: 20%;
+  border-radius: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.industry-img{
+  width: 20%;
+  border-radius: 25%;
+  float: right;
+  margin-left: 10px
+}
+
+
+.language-img{
+  width: 20%;
+  border-radius: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+
+.topcontainer{
+  padding-top: 100px;
+  position: relative;
+  background-color: #E4F9F5;
+
+}
+
+.copyright{
+  background-color: lavender;
+
+}
+
+.middlecontainer{
+  margin: 100px 0;
+}
+
+.bottomcontainer{
+  height: 200px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 0;
+  margin-right: 0;
+  background-color: lavender;
+
+}
+
+.btn{
+  color: #11999E;
+  text-decoration: none;
+  margin-bottom: 100px;
+  margin-top: 100px;
+
+}
